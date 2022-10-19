@@ -2,10 +2,9 @@
 
 /**
  * main - print _putchar
- * is written by bwave
+ * is written by joy
  * Return: 0;
  */
-
 int main(void)
 {
 _putchar('_');
