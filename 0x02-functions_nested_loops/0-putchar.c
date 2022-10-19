@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
  * main - print _putchar
- * is written by Mena
- * Return: 0
+ * is written by bwave
+ * Return: 0;
  */
 
 int main(void)
@@ -18,3 +19,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
