@@ -5,18 +5,17 @@
  * print_array - print n elements of an array of integers
  * @a: array
  * @n: elements to print
+ * Return: no return.
  */
 void print_array(int *a, int n)
 {
-	int index;
+	int f = 0;
 
-	for (index = 0; index < n; index++)
+	for (; f < n; f++)
 	{
-		printf("%d", a[index]);
-
-		if (index == n - 1)
-			continue;
-		printf(",");
+		printf("%d", *(a + f));
+		if (f != (n - 1))
+			printf(", ");
 	}
 	printf("\n");
 }
