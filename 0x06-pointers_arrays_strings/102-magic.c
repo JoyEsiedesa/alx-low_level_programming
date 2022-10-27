@@ -12,7 +12,7 @@ int main(void)
 	/**
 	 * write your line of code here...
 	 * Remember:
-	 * main - magic
+	 * main - add one line to the code
 	 * - you are not allowed to use a
 	 * - you are not allowed to modify p
 	 * - only one statement
