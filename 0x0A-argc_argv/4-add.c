@@ -7,7 +7,7 @@
  * check_num - check - string that are digits
  * @str: array str
  *
- * Return: Always 0 
+ * Return: Always 0
  */
 
 int check_num(char *str)
@@ -32,7 +32,7 @@ return (1);
  * @argc: count arguments
  * @argv: arguments
  *
- * Return: Always 0 
+ * Return: Always 0
  */
 
 int main(int argc, char *argv[])
