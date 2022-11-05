@@ -1,2 +1,2 @@
-everything *.o
-everything *.c
+*.o
+*.c
